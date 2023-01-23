@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(99, 57, 128);
+}
+img{
+    width: 50%;
+}
+.cards{
+    display: flex;
+    justify-content: space-around;
+    padding: 35px;
+}
+h1{
+    text-align: center;
+    padding: 40px;
+    color: rgb(253, 253, 253);
+}
+header{
+    background-color: rgb(22, 4, 46);
+    margin-bottom: 2%;
+}
+#imgLogo{
+    width: 7%;
+    padding: 30px;
+    display: block;
+    margin: 0px auto;
+}
+footer{
+    background-color: rgb(22, 4, 46);
+    margin-top: 3%;
+}
+.instaImg{
+    align-items: center;
+}
